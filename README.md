@@ -19,7 +19,7 @@ Profiles are not exclusive — select as many as you need during install.
 
 ## Status
 
-🚧 Early development. Not ready for daily use yet.
+Early development. Not ready for daily use yet.
 
 ## Building from source
 
