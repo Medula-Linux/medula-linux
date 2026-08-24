@@ -2,7 +2,7 @@
 
 **The core that adapts to every use.**
 
-Medula Linux is a profile-driven Linux distribution based on Ubuntu. During installation, users choose the profiles that fit their needs — Desktop, Pentesting, Server, or Development — and only the relevant tools get installed.
+Medula Linux is a profile-driven Linux distribution based on Debian. During installation, users choose the profiles that fit their needs — Desktop, Pentesting, Server, or Development — and only the relevant tools get installed.
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
