@@ -1,0 +1,9 @@
+git
+build-essential
+python3
+python3-pip
+nodejs
+npm
+docker.io
+neovim
+postgresql

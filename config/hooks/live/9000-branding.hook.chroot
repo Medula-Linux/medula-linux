@@ -1,17 +1,17 @@
 #!/bin/sh
 set -e
 
-cat > /etc/os-release << 'EOF'
+cat > /etc/os-release << 'INNEREOF'
 NAME="Medula Linux"
 VERSION="1.0"
 ID=medula
-ID_LIKE=ubuntu
+ID_LIKE=debian
 PRETTY_NAME="Medula Linux 1.0"
 VERSION_ID="1.0"
 HOME_URL="https://medula-linux.github.io"
 SUPPORT_URL="https://github.com/medula-linux/medula-linux"
 BUG_REPORT_URL="https://github.com/medula-linux/medula-linux/issues"
-EOF
+INNEREOF
 
 echo "Medula Linux \n \l" > /etc/issue
 echo "Medula Linux" > /etc/issue.net

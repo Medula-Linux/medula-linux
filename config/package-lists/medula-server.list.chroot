@@ -1,0 +1,5 @@
+openssh-server
+nginx
+docker.io
+ufw
+fail2ban

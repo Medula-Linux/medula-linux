@@ -1,5 +1,7 @@
-kubuntu-desktop
-firefox
+task-kde-desktop
+firefox-esr
 libreoffice
 vlc
 gimp
+calamares
+calamares-settings-debian

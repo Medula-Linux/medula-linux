@@ -1,0 +1,7 @@
+Package: *
+Pin: release o=Kali
+Pin-Priority: 100
+
+Package: nmap wireshark metasploit-framework aircrack-ng john hydra sqlmap nikto gobuster netcat-traditional
+Pin: release o=Kali
+Pin-Priority: 900

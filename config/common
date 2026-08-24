@@ -64,16 +64,16 @@ LB_DEBCONF_NOWARNINGS="yes"
 LB_DEBCONF_PRIORITY="critical"
 
 # $LB_INITRAMFS: set initramfs hook
-# (Default: casper)
-LB_INITRAMFS="casper"
+# (Default: live-boot)
+LB_INITRAMFS="live-boot"
 
 # $LB_INITRAMFS_COMPRESSION: set initramfs compression
 # (Default: )
 LB_INITRAMFS_COMPRESSION=""
 
 # $LB_INITSYSTEM: set init system
-# (Default: )
-LB_INITSYSTEM=""
+# (Default: sysvinit)
+LB_INITSYSTEM="sysvinit"
 
 # $LB_FDISK: set fdisk program
 # (Default: autodetected)
@@ -84,8 +84,8 @@ LB_FDISK="fdisk"
 LB_LOSETUP="losetup"
 
 # $LB_MODE: set distribution mode
-# (Default: ubuntu)
-LB_MODE="ubuntu"
+# (Default: debian)
+LB_MODE="debian"
 
 # $LB_SYSTEM: set system type
 # (Default: live)
