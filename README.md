@@ -6,7 +6,7 @@ Medula Linux is a profile-driven Linux distribution based on Debian. During inst
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Base](https://img.shields.io/badge/base-Ubuntu%2022.04-orange)
+![Base](https://img.shields.io/badge/base-Debian%2012-orange)
 
 ## Profiles
 
